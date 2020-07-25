@@ -1,4 +1,4 @@
-a = input("cumleyi gir ..")
+a = input("write your sentence ..")
 
 print(len(a))
 b = len(a)

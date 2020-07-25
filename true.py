@@ -1,5 +1,5 @@
 n=101
-print ("Girdi \t Çıktı")
+print ("input \t output")
 while n != 1:
     print (n, "\t", n)
     if n % 2 == 0:
